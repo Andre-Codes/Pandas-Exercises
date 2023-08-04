@@ -1,4 +1,4 @@
-Exploring and learning various libraries as we go thourgh the machine learning process with hands-on exercises.
+Exploring and learning various libraries as we go through the data analysis--machine learning process with hands-on exercises.
 
 Data analysis projects following the **MAGIC ML** process, some only in part, and some all the way through the machine learning model training and evaluating phase. This method is outlined below:
 
