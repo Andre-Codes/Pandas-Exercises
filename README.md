@@ -1,7 +1,7 @@
-# Pandas-Exercises
-Exploring and learning the **Pandas** library with hands-on exercises
+# MAGIC ML
+Exploring and learning various libraries as we go thourgh the machine learning process with hands-on exercises.
 
-The exercises in the "_magic" directory will follow the **MAGIC ML** process, some only in part, and some all the way through the machine learning model training and evaluating phase. This method is outlined below:
+Data analysis projects following the **MAGIC ML** process, some only in part, and some all the way through the machine learning model training and evaluating phase. This method is outlined below:
 
 # MAGIC ML
 - ## **M** - Mission: Define your mission and set clear objectives for your machine learning project.
